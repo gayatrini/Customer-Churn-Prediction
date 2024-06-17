@@ -2,6 +2,12 @@
 This project focuses on predicting customer churn in the telecom industry using machine learning techniques. The primary objective is to build a predictive model that can identify customers likely to churn, helping telecom companies proactively retain their customers.
 
 
+## Overview
+### Dataset: Telecom customer data
+### Model: Random Forest Classifier
+### Technique: SMOTE (Synthetic Minority Over-sampling Technique)
+### Accuracy: 94.75%
+
 ## Project Steps
 ### Data Preprocessing:
 - Cleaned and prepared the telecom customer dataset.
