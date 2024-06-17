@@ -3,10 +3,10 @@ This project focuses on predicting customer churn in the telecom industry using 
 
 
 ## Overview
-### Dataset: Telecom customer data
-### Model: Random Forest Classifier
-### Technique: SMOTE (Synthetic Minority Over-sampling Technique)
-### Accuracy: 94.75%
+#### Dataset: Telecom customer data
+#### Model: Random Forest Classifier
+#### Technique: SMOTE (Synthetic Minority Over-sampling Technique)
+#### Accuracy: 94.75%
 
 ## Project Steps
 ### Data Preprocessing:
